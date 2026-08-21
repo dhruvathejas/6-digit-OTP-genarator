@@ -2,7 +2,7 @@ import secrets
 
 def  random_OTP()
 
-    chars = "ABCDEFGHJKMNPQRSTUVWXYZabcdefghjkmnpqrstuvwxyz23456789"
+    chars = "0123456789"
 
     code = ""
 
